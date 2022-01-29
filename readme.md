@@ -5,7 +5,7 @@
 This is the first app that I ever built with Node.  Impressively succint,
 it consists of four pages: index, about, contact-me, and 404.  For consciceness,
 there is absolutely zero UI.  The first three pages are accessed only via their
-respectiveURLs: '/', '/about', and '/contact-me', while the 404 is served upon
+respective URLs: '/', '/about', and '/contact-me', while the 404 is served upon
 attempting navigation to any other (invalid) URL.
 
 This app is framework-less... all functionality is provided via Vanilla Node JS.
